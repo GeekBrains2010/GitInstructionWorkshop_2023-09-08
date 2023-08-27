@@ -11,7 +11,7 @@
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
-
+dsfgdhuj gfgujhij ujyhiuioipo
 ### Установка git на ваш ПК
 
 #### Первая настройка git
