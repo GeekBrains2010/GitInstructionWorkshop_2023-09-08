@@ -16,6 +16,11 @@
 ### Установка git на ваш ПК
 
 #### Первая настройка git
+После запуска ввести:
+
+    git config --global user.name "John Doe"
+
+    git config --global user.email johndoe@example.com
 
 ## Создание и базовая работа с локальным репозиторием.
 
