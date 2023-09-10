@@ -58,6 +58,7 @@ git config --global user.email email@example.com
 4. Сделать _pull request_
 
 ## Книги и полезные ссылки по изучению git.
+https://git-scm.com/book/ru/v2
 
 ## Альтернативные системы контроля версий.
 
