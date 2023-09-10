@@ -47,7 +47,6 @@
 2. add change 
 3. create commit 
 4. add push 
-5. create pre clone
 ## Книги и полезные ссылки по изучению git.
 
 ## Альтернативные системы контроля версий.
