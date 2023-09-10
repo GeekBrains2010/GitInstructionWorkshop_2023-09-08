@@ -29,6 +29,9 @@ git config --global user.email email@example.com
 
 
 ## Создание и базовая работа с локальным репозиторием.
+git init
+git add
+git commit
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
 
