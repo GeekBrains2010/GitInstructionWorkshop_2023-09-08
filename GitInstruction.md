@@ -21,6 +21,10 @@
 sudo apt update
 sudo apt install git
 
+New branch
+sudo apt update
+sudo apt install git
+
 #### Первая настройка git
 
 ## Создание и базовая работа с локальным репозиторием.
