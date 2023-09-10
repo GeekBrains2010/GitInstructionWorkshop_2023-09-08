@@ -28,6 +28,17 @@
 
 ## Ветки. Локальная работа с ветками в git.
 
+Branching makes it easier to work on certain areas of the file
+
+* **git branch** - shows the list of existing branches
+* **git branch branch_name** - creates new branch
+* **git checkout branch_name** - switches between branches
+
+### *Additional cmd's*
+* **git log --graph** - calls for the log sorted by branches
+* **git branch -d branch_name** - deleting merged branch
+* **git branch -D branch_name** - deleting branch without merging
+
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
 
 ### Базовая работа с ветками в git.
