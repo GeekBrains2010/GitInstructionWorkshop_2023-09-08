@@ -37,7 +37,6 @@ Push/pull/sync с удалённой веткой.
 Разрешение конфликтов слияния.
 
 Просмотр изменений.
-
 С помощью плагина можно работать с запросами слияния на GitHub: https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github.
 
 Официальная документация доступна здесь: https://code.visualstudio.com/Docs/editor/versioncontrol.
