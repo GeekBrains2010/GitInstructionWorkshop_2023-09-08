@@ -17,6 +17,7 @@
 ### Установка VSCode на ваш ПК.
 
 ### Установка git на ваш ПК
+https://git-scm.com/downloads
 
 #### Первая настройка git
 
@@ -77,6 +78,7 @@ git config --global user.email email@example.com
 4. Сделать _pull request_
 
 ## Книги и полезные ссылки по изучению git.
+https://learngitbranching.js.org/
 
 ## Альтернативные системы контроля версий.
 
