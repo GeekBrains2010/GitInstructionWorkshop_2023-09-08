@@ -14,3 +14,12 @@
 12. Инструкция по созданию pull request
 13. Книги и полезные ссылки по изучению git.
 14. Альтернативные системы контроля версий.
+
+15. 
+#### 9.1. Creating a new Branch
+
+``` $ git branch <new_branch_name> ``` - creates a new pointer (branch) with the name <u>new_branch_name</u> to the current commit (which is referred to by the pointer called HEAD)
+
+#### 9.2. Switching Branches
+
+To switch to an existing branch run the ***git checkout <<u>branch_name</u>>*** or the ***git switch <<u>branch_name</u>>*** commands
