@@ -18,6 +18,13 @@
 
 ### Установка git на ваш ПК
 
+sudo apt update
+sudo apt install git
+
+New branch
+sudo apt update
+sudo apt install git
+
 #### Первая настройка git
 
 Добавил информацию
