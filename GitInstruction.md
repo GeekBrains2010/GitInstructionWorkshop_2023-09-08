@@ -33,7 +33,7 @@ git config --global user.email email@example.com
 2) Создать рабочую ветку git branch main
 3) Сохрать 
 4) Произвести добавление git add
-5) Поизвести commit 
+5) Поизвести commit  
 
 ### Что такое репозиторий и инструкция по созданию локальных репозиториев.
 
