@@ -67,12 +67,6 @@ git config --global user.email email@example.com
 ### Что такое удаленный репозиторий и для чего он нужен
 
 ### Базовая работа с удаленными репозиториями GitHub
-* git clone repository_address.git - команда клонирования репозитория, находящегося по ссылке repository_address.git;
-* echo "text" >> README.md - создаёт файл с названием "README.md" с текстом "text";
-* git remote add origin repository_address.git - команда связывает локальный репозиторий с удалённым;
-* git push -u origin main - связывает локальную ветку с веткой удалённого репозитория;
-* git pull - команда для получения последних изменений из удалённого репозитория;
-* git push - команда для отправки последних изменений на удалённый репозиторий.
 
 ## Совместная работа над проектом (fork, pull request)
 
