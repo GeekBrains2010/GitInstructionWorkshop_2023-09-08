@@ -79,6 +79,7 @@ git config --global user.email email@example.com
 4. Сделать _pull request_
 
 ## Книги и полезные ссылки по изучению git.
+https://techrocks.ru/2020/10/16/git-reset-explained/
 
 ## Альтернативные системы контроля версий.
 
