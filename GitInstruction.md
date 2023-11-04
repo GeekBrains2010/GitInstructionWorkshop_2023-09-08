@@ -85,3 +85,6 @@ git config --global user.email email@example.com
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
+
+
+git branch --set-upstream-to https://github.com/EvanBaibakov/GitInstructionWorkshop_2023-09-08.git/ vetka2
